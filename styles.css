@@ -1,0 +1,70 @@
+body{
+    background-color: black!important;
+}
+.background-container{
+    width: 90%;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.formulario{
+    width: 95%;
+    margin: 5%;
+    border: 1px solid rgb(207, 203, 203);
+    border-radius: 3px;
+    padding: 10px;
+    font-weight: 500;
+}
+.card{
+    border: none!important;  
+}
+.card-details{
+    display: flex;
+}
+.container card-id{
+    
+}
+.person-details1{
+    width: 50%;
+    margin-right: 10px;
+    margin-top: 20px;
+}
+.person-details1 fieldset{
+    margin-top: 10px;
+}
+.envolvePaidMethodSelect{
+    width: 300px;
+    display: flex;
+    background-color: gray;
+    border-radius: 5px;
+    padding: 10px;
+}
+.iconCard{
+    width: 25px;
+    height: 25px;
+    border-radius: 4px;
+    margin-right: 20px;
+}
+.person-details2{
+    width: 50%;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.person-details2 fieldset{
+    margin-top: 10px;
+}
+.city-details{
+    display: flex;
+}
+.city-details fieldset{
+    width: 50%;
+    margin-right: 10px;
+}
+.div-buttons{
+    display: flex;
+    justify-content: flex-end;
+}
+.btn{
+    margin-right: 10px;
+}
